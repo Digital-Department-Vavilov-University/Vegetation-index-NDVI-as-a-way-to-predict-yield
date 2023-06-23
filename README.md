@@ -1,0 +1,1 @@
+# Vegetation-index-NDVI-as-a-way-to-predict-yield
