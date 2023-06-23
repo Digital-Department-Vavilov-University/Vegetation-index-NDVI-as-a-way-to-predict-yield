@@ -1,0 +1,4 @@
+﻿  MyForm.cpp
+C:\Users\krok9\OneDrive\Рабочий стол\NDVI\Project9\MyForm.h(293,21): warning C4101: ex: неиспользованная локальная переменная
+  MyForm.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  Project9.vcxproj -> C:\Users\krok9\OneDrive\Рабочий стол\NDVI\x64\Debug\Project9.exe

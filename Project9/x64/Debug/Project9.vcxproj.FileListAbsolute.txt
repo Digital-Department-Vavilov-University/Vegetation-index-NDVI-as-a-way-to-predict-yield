@@ -1,0 +1,15 @@
+C:\Users\krok9\source\repos\Project9\Project9\x64\Debug\Project9.vcxproj.AssemblyReference.cache
+C:\Users\krok9\source\repos\Project9\Project9\x64\Debug\Project9.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\krok9\source\repos\Project9\Project9\x64\Debug\Project9.vcxproj.ResolveComReference.cache
+C:\Users\krok9\source\repos\Project9\Project9\x64\Debug\Project9.MyForm.resources
+C:\Users\krok9\source\repos\Project9\Project9\x64\Debug\Project9.vcxproj.GenerateResource.cache
+C:\Users\anlat\OneDrive\Рабочий стол\Проект программирование\NDVI — копия\NDVI\Project9\x64\Debug\Project9.vcxproj.AssemblyReference.cache
+C:\Users\anlat\OneDrive\Рабочий стол\Проект программирование\NDVI — копия\NDVI\Project9\x64\Debug\Project9.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\anlat\OneDrive\Рабочий стол\Проект программирование\NDVI — копия\NDVI\Project9\x64\Debug\Project9.vcxproj.ResolveComReference.cache
+C:\Users\anlat\OneDrive\Рабочий стол\Проект программирование\NDVI — копия\NDVI\Project9\x64\Debug\Project9.MyForm.resources
+C:\Users\anlat\OneDrive\Рабочий стол\Проект программирование\NDVI — копия\NDVI\Project9\x64\Debug\Project9.vcxproj.GenerateResource.cache
+C:\Users\krok9\OneDrive\Рабочий стол\NDVI\Project9\x64\Debug\Project9.vcxproj.AssemblyReference.cache
+C:\Users\krok9\OneDrive\Рабочий стол\NDVI\Project9\x64\Debug\Project9.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\krok9\OneDrive\Рабочий стол\NDVI\Project9\x64\Debug\Project9.vcxproj.ResolveComReference.cache
+C:\Users\krok9\OneDrive\Рабочий стол\NDVI\Project9\x64\Debug\Project9.MyForm.resources
+C:\Users\krok9\OneDrive\Рабочий стол\NDVI\Project9\x64\Debug\Project9.vcxproj.GenerateResource.cache
