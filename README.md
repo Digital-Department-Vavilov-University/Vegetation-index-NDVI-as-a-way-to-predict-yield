@@ -32,7 +32,7 @@
 ![теория NDVI](https://sun9-36.userapi.com/impg/0f47Suh0jyrkyPi5E6pelkZ4DqsMV-qAkGM46Q/533qBWvkbIw.jpg?size=967x619&quality=96&sign=f0afe4ccc096a8b31f5e1246a3444656&type=album)
 
 
-## **Принцип работы*
+## **Принцип работы**
 
 *Программа сформирована таким образом, что основная задача – это сопоставление значений из подгружаемого файла с помощью кнопки со значениями в коде. Формат загружаемого файла должен быть строго определенного типа (.csv). (Примеры табличных данных находятся в папке [DataBase](https://github.com/Digital-Department-Vavilov-University/Vegetation-index-NDVI-as-a-way-to-predict-yield/tree/main/DataBase))*
 
