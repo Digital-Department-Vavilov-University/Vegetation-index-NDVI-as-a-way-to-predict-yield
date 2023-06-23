@@ -44,8 +44,8 @@
 
 ## **Контактная информация разработчика**
 
-[VK:](https://vk.com/anlat)
+[VK](https://vk.com/anlat)
 
-[Telegram:](https://t.me/anlat702)
+[Telegram](https://t.me/anlat702)
 
-[E-mail:](an.lat.702@yamdex.ru)
+[E-mail](an.lat.702@yamdex.ru)
